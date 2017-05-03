@@ -1,3 +1,6 @@
+This module contains all miscellaneous functions that cannot otherwise fit under one roof/category with other related functions.
+
+## Slope function
 ```
-test
+slope(y2, y1, x2, x1);
 ```
