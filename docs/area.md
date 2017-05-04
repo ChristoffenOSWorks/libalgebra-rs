@@ -1,3 +1,6 @@
+# Module: Area Functions
+This module contains functions that will find the area of a shape based on parameters given as input to the functions down below.
+
 ```
 rectangle(l, w);
 ```
