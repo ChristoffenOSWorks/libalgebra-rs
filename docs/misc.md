@@ -35,7 +35,7 @@ quad_formula(a, b, c);
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <html><body>
-<center>
+<center>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.codecogs.com/eqnedit.php?latex=x&space;=&space;\frac{-b&space;\pm&space;\sqrt{b^{2}&space;-&space;4ac}}{2a}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?x&space;=&space;\frac{-b&space;\pm&space;\sqrt{b^{2}&space;-&space;4ac}}{2a}" title="x = \frac{-b \pm \sqrt{b^{2} - 4ac}}{2a}" /></a>
 </center>
 </body></html>
