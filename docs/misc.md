@@ -30,5 +30,41 @@ p_of_rect(l, w);
 ```
 
 ```
+quad_formula(a, b, c);
+```
+<html>
+<center>
+
+<math>
+<semantics>
+<mrow>
+   <mi>x</mi><mo>=</mo>
+   <mfrac>
+   <mrow>
+      <mo>&#x2212;</mo><mi>b</mi><mo>&#x00B1;</mo>
+     <msqrt>
+      <mrow>
+         <msup>
+           <mi>b</mi>
+           <mn>2</mn>
+         </msup>
+      <mo>&#x2212;</mo><mn>4</mn><mi>a</mi><mi>c</mi>
+      </mrow>
+     </msqrt>
+
+      </mrow>
+      <mrow>
+         <mn>2</mn><mi>a</mi>
+      </mrow>
+    </mfrac>
+
+</mrow>
+</semantics>
+</math>
+
+</center>
+</html>
+
+```
 circum_of_circle(d);
 ```
