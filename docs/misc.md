@@ -32,9 +32,8 @@ p_of_rect(l, w);
 ```
 quad_formula(a, b, c);
 ```
-<html>
-<center>
 
+<center>
 <math>
 <semantics>
 <mrow>
@@ -61,9 +60,7 @@ quad_formula(a, b, c);
 </mrow>
 </semantics>
 </math>
-
 </center>
-</html>
 
 ```
 circum_of_circle(d);
