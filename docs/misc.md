@@ -34,32 +34,7 @@ quad_formula(a, b, c);
 ```
 
 <center>
-<math>
-<semantics>
-<mrow>
-   <mi>x</mi><mo>=</mo>
-   <mfrac>
-   <mrow>
-      <mo>&#x2212;</mo><mi>b</mi><mo>&#x00B1;</mo>
-     <msqrt>
-      <mrow>
-         <msup>
-           <mi>b</mi>
-           <mn>2</mn>
-         </msup>
-      <mo>&#x2212;</mo><mn>4</mn><mi>a</mi><mi>c</mi>
-      </mrow>
-     </msqrt>
-
-      </mrow>
-      <mrow>
-         <mn>2</mn><mi>a</mi>
-      </mrow>
-    </mfrac>
-
-</mrow>
-</semantics>
-</math>
+<a href="https://www.codecogs.com/eqnedit.php?latex=x&space;=&space;\frac{-b&space;\pm&space;\sqrt{b^{2}&space;-&space;4ac}}{2a}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?x&space;=&space;\frac{-b&space;\pm&space;\sqrt{b^{2}&space;-&space;4ac}}{2a}" title="x = \frac{-b \pm \sqrt{b^{2} - 4ac}}{2a}" /></a>
 </center>
 
 ```
