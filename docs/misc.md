@@ -16,7 +16,7 @@ slope(y2, y1, x2, x1);
 ```
 dist_on_plane(y2, y1, x2, x1);
 ```
-
+![](https://raw.githubusercontent.com/ChristoffenOSWorks/libalgebra-rs/misc-module-docs/docs/distance_plane.gif.gif)
 ```
 dist_on_plane(y2, y1, x2, x1);
 ```
