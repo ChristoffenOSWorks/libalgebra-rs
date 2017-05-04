@@ -13,22 +13,28 @@ slope(y2, y1, x2, x1);
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`x1` - The x1 value of the slope formula
 
+## Distance Formula (On a Plane)
 ```
 dist_on_plane(y2, y1, x2, x1);
 ```
 ![](https://raw.githubusercontent.com/ChristoffenOSWorks/libalgebra-rs/misc-module-docs/docs/distance_plane.gif.gif)
+
+## Midpoint on a Plane
 ```
-dist_on_plane(y2, y1, x2, x1);
+mid_on_plane(y2, y1, x2, x1);
 ```
 
+## Pythagorean Theorum
 ```
 py_thm(a, b, c);
 ```
 
+## Perimeter of a Rectangle
 ```
 p_of_rect(l, w);
 ```
 
+## Quadratic Formula
 ```
 quad_formula(a, b, c);
 ```
@@ -40,6 +46,7 @@ quad_formula(a, b, c);
 </center>
 </body></html>
 
+## Circumference of a Circle
 ```
 circum_of_circle(d);
 ```
