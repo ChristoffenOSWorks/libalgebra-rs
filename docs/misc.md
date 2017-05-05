@@ -31,7 +31,7 @@ py_thm(a, b, c);
 ```
 
 ## Perimeter of a Rectangle
-![][perirect] or
+![][perirect] or ![][perirect2]
 ```
 p_of_rect(l, w);
 ```
@@ -53,5 +53,6 @@ circum_of_circle(d);
 [midplane]: https://github.com/ChristoffenOSWorks/libalgebra-rs/blob/master/docs/images/mid_on_plane.gif
 [pythm]: https://github.com/ChristoffenOSWorks/libalgebra-rs/blob/master/docs/images/py_thm.gif
 [perirect]: https://github.com/ChristoffenOSWorks/libalgebra-rs/blob/master/docs/images/p_of_rect.gif
+[perirect2]: https://github.com/ChristoffenOSWorks/libalgebra-rs/blob/master/docs/images/p_of_rect_2.gif
 [quadform]: https://github.com/ChristoffenOSWorks/libalgebra-rs/blob/master/docs/images/quad_formula.gif
 [circum]: https://github.com/ChristoffenOSWorks/libalgebra-rs/blob/master/docs/images/circum_of_circ_1.gif
