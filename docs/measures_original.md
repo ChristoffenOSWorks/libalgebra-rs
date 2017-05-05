@@ -10,9 +10,9 @@ Original metric and customary units. Backup in place of what would be an equatio
 |                 |                                     | 1 yard = 36 inches                  |
 | Volume/Capacity | 1 liter (L) = 1000 milliliters (mL) |                                     |
 |                 | 1 kiloliter (kL) = 1000 liters      | 1 gallon = 128 fluid ounces (fl oz) |
-|                 |                                     |                                     |
-|                 |                                     |                                     |
-|                 |                                     |                                     |
+|                 |                                     | 1 quart = 2 pints (pt)              |
+|                 |                                     | 1 pint = 2 cups (c)                 |
+|                 |                                     | 1 cup = 8 fluid ounces              |
 | Weight/Mass     | 1 kilogram (kg) = 1,000 grams (g)   |                                     |
 |                 | 1 gram = 1000 milligrams (mg)       |                                     |
 |                 | 1 metric ton (t) = 1000 kilograms   |                                     |
