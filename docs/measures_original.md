@@ -4,7 +4,7 @@ Original metric and customary units. Backup in place of what would be an equatio
 | Measure         | Metric                              | Customary                           |
 | --------------- |:-----------------------------------:|:-----------------------------------:|
 | Length          | kilometer (km) = 1,000 meters (m)   |          1                          |
-| --------------- | 1 meter = 100 centimeters (cm)      |                                     |
+|                 | 1 meter = 100 centimeters (cm)      |                                     |
 |                 | 1 cm = 10 millimeters (mm)          |                                     |
 |                 |                                     | 1 foot = 12 inches (in.)            |
 |                 |                                     | 1 yard = 36 inches                  |
