@@ -5,7 +5,7 @@ This module contains functions that will find the area of a shape based on param
 ```
 rectangle(l, w);
 ```
-<center><div style="align:center"><img src ="https://raw.githubusercontent.com/ChristoffenOSWorks/libalgebra-rs/master/docs/images/area_rect.gif" /></div></center>
+<center><div style="align:center"><img align="center" src ="https://raw.githubusercontent.com/ChristoffenOSWorks/libalgebra-rs/master/docs/images/area_rect.gif" /></div></center>
 
 ## Area of a Parallelogram
 ```
