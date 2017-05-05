@@ -31,7 +31,7 @@ py_thm(a, b, c);
 ```
 
 ## Perimeter of a Rectangle
-![][perirect] or ![][perirect2]
+![][perirect], ![][perirect2]
 ```
 p_of_rect(l, w);
 ```
