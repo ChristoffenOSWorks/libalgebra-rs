@@ -5,6 +5,7 @@ This module contains functions that will find the area of a shape based on param
 ```
 rectangle(l, w);
 ```
+
 ![][area-rect]
 
 ## Area of a Parallelogram
