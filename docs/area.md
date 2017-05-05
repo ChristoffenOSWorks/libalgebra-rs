@@ -32,4 +32,4 @@ circle(r);
 ```
 <div style="text-align:center"><img src ="..." /></div>
 
-[area_rect]: https://github.com/ChristoffenOSWorks/libalgebra-rs/blob/master/docs/images/area_rect.gif?raw=true ""
+[area_rect]: https://github.com/ChristoffenOSWorks/libalgebra-rs/blob/master/docs/images/area_rect.gif ""
