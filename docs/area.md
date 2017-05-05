@@ -5,14 +5,13 @@ This module contains functions that will find the area of a shape based on param
 ```
 rectangle(l, w);
 ```
-
 ![][area_rect]
 
 ## Area of a Parallelogram
 ```
 parallelogram(b, h);
 ```
-<div style="text-align:center"><img src ="..." /></div>
+![][area_para]
 
 ## Area of a Triangle
 ```
@@ -33,3 +32,4 @@ circle(r);
 <div style="text-align:center"><img src ="..." /></div>
 
 [area_rect]: https://github.com/ChristoffenOSWorks/libalgebra-rs/blob/master/docs/images/area_rect.gif ""
+[area_para]: https://raw.githubusercontent.com/ChristoffenOSWorks/libalgebra-rs/master/docs/images/area_para.gif ""
