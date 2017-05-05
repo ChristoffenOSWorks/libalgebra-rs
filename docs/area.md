@@ -2,34 +2,34 @@
 This module contains functions that will find the area of a shape based on parameters given as input to the functions down below.
 
 ## Area of a Rectangle
+![][area_rect]
 ```
 rectangle(l, w);
 ```
-![][area_rect]
 
 ## Area of a Parallelogram
+![][area_para]
 ```
 parallelogram(b, h);
 ```
-![][area_para]
 
 ## Area of a Triangle
+![][area_trian]
 ```
 triangle(b, h);
 ```
-![][area_trian]
 
 ## Area of a Trapezoid
+![][area_trapa]
 ```
 trapezoid(h, b1, b2);
 ```
-![][area_trapa]
 
 ## Area of a Circle
+![][area_circ]
 ```
 circle(r);
 ```
-![][area_circ]
 
 [area_rect]: https://github.com/ChristoffenOSWorks/libalgebra-rs/blob/master/docs/images/area_rect.gif 
 [area_para]: https://raw.githubusercontent.com/ChristoffenOSWorks/libalgebra-rs/master/docs/images/area_para.gif 
