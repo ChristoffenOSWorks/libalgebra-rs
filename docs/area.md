@@ -8,6 +8,8 @@ rectangle(l, w);
 
 ![](area-rect)
 
+[area_rect]: https://raw.githubusercontent.com/ChristoffenOSWorks/libalgebra-rs/master/docs/images/area_rect.gif ""
+
 ## Area of a Parallelogram
 ```
 parallelogram(b, h);
@@ -32,4 +34,3 @@ circle(r);
 ```
 <div style="text-align:center"><img src ="..." /></div>
 
-[area_rect]: https://raw.githubusercontent.com/ChristoffenOSWorks/libalgebra-rs/master/docs/images/area_rect.gif ""
