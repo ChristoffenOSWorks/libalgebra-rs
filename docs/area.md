@@ -17,19 +17,22 @@ parallelogram(b, h);
 ```
 triangle(b, h);
 ```
-<div style="text-align:center"><img src ="..." /></div>
+![][area_trian]
 
 ## Area of a Trapezoid
 ```
 trapezoid(h, b1, b2);
 ```
-<div style="text-align:center"><img src ="..." /></div>
+![][area_trapa]
 
 ## Area of a Circle
 ```
 circle(r);
 ```
-<div style="text-align:center"><img src ="..." /></div>
+![][area_circ]
 
-[area_rect]: https://github.com/ChristoffenOSWorks/libalgebra-rs/blob/master/docs/images/area_rect.gif ""
-[area_para]: https://raw.githubusercontent.com/ChristoffenOSWorks/libalgebra-rs/master/docs/images/area_para.gif ""
+[area_rect]: https://github.com/ChristoffenOSWorks/libalgebra-rs/blob/master/docs/images/area_rect.gif 
+[area_para]: https://raw.githubusercontent.com/ChristoffenOSWorks/libalgebra-rs/master/docs/images/area_para.gif 
+[area_trian]: https://github.com/ChristoffenOSWorks/libalgebra-rs/blob/master/docs/images/area_trian.gif
+[area_trapa]: https://github.com/ChristoffenOSWorks/libalgebra-rs/blob/master/docs/images/area_trap.gif
+[area_circ]: https://github.com/ChristoffenOSWorks/libalgebra-rs/blob/master/docs/images/area_circ.gif
