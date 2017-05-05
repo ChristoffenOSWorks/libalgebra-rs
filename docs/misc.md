@@ -17,19 +17,33 @@ slope(y2, y1, x2, x1);
 ```
 dist_on_plane(y2, y1, x2, x1);
 ```
+- Parameters:
+    - `y2` - The y2 value of the distance formula
+    - `y1` - The y1 value of the distance formula
+    - `x2` - The x2 value of the distance formula
+    - `x1` - The x1 value of the distance formula
 
 ## Midpoint on a Plane
 ![][midplane]
 ```
 mid_on_plane(y2, y1, x2, x1);
 ```
+- Parameters:
+    - `y2` - The y2 value of the midpoint formula
+    - `y1` - The y1 value of the midpoint formula
+    - `x2` - The x2 value of the midpoint formula
+    - `x1` - The x1 value of the midpoint formula
 
 ## Pythagorean Theorum
 ![][pythm]
 ```
 py_thm(a, b, c);
 ```
-
+- Parameters:
+    - `a` - The a value of the Pythagorean Theorum
+    - `b` - The b value of the Pythagorean Theorum
+    - `c` - The c value of the Pythagorean Theorum
+    
 ## Perimeter of a Rectangle
 ![][perirect]
 
@@ -37,19 +51,30 @@ py_thm(a, b, c);
 ```
 p_of_rect(l, w);
 ```
+This function defaults to the first formula specified.
 
+- Parameters:
+    - `l` - The length value of a rectangle
+    - `w` - The width value of a rectangle
+    
 ## Quadratic Formula
 ![][quadform]
 ```
 quad_formula(a, b, c);
 ```
-
+- Parameters:
+    - `a` - The a value of the Quadratic Formula
+    - `b` - The b value of the Quadratic Formula
+    - `c` - The c value of the Quadratic Formula
+    
 ## Circumference of a Circle
 ![][circum]
 ```
 circum_of_circle(d);
 ```
-
+- Parameters:
+    - `d` - The diameter of a circle
+    
 [slope]: https://github.com/ChristoffenOSWorks/libalgebra-rs/blob/master/docs/images/slope.gif
 [distplane]: https://github.com/ChristoffenOSWorks/libalgebra-rs/blob/master/docs/images/distance_plane.gif
 [midplane]: https://github.com/ChristoffenOSWorks/libalgebra-rs/blob/master/docs/images/mid_on_plane.gif
