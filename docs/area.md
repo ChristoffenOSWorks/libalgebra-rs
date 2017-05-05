@@ -5,23 +5,28 @@ This module contains functions that will find the area of a shape based on param
 ```
 rectangle(l, w);
 ```
+<div style="text-align:center"><img src ="..." /></div>
 
 ## Area of a Parallelogram
 ```
 parallelogram(b, h);
 ```
+<div style="text-align:center"><img src ="..." /></div>
 
 ## Area of a Triangle
 ```
 triangle(b, h);
 ```
+<div style="text-align:center"><img src ="..." /></div>
 
 ## Area of a Trapezoid
 ```
 trapezoid(h, b1, b2);
 ```
+<div style="text-align:center"><img src ="..." /></div>
 
 ## Area of a Circle
 ```
 circle(r);
 ```
+<div style="text-align:center"><img src ="..." /></div>
