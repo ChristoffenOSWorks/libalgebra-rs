@@ -1,0 +1,6 @@
+[package]
+name = "libalgebra"
+version = "0.0.1"
+authors = ["M. Gage Morgan <gage@christoffen.com>"]
+
+[dependencies]
